@@ -12,4 +12,6 @@ function subtract(a,b){
 
 function sing(){
     return 'happy birthday'
+
+    
 }
