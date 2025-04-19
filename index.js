@@ -7,3 +7,7 @@ name = 'shrestha'
 function nameGiver(){
     console.log(name)
 }
+
+function is18(){
+    return age>18
+}
