@@ -9,3 +9,7 @@ function add(a,b){
 function subtract(a,b){
     return a-b
 }
+
+function sing(){
+    return 'happy birthday'
+}
